@@ -1,6 +1,6 @@
 {
   "domain": "demo",
-  "name": "Demo",
+  "name": "Demo local development",
   "codeowners": ["@home-assistant/core"],
   "dependencies": ["conversation", "group", "zone"],
   "documentation": "https://www.home-assistant.io/integrations/demo",
